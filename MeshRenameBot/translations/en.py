@@ -2,7 +2,7 @@ class EnTrans:
     
     WRONG_VALUE_ERROR = "Invalid value entered for {} variable."
     
-    START_MSG = "Hello there, I am Rex pro Rename Bot. join my updates @Rexbots. for more features."
+    START_MSG = "Hello there, I am UK pro Rename Bot. join my updates @UniversalKidzbotz . for more features."
   
     CANCEL_MESSAGE = "The rename has been canceled. Will be updated soon."
     
